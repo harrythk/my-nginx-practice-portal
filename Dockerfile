@@ -1,12 +1,7 @@
-# Take Pateela
-
-FROM nginx
-
-# Cooker
+FROM nginx:latest
 
 WORKDIR /app
 
-# ingredients
 COPY index.html /usr/share/nginx/html
 
 EXPOSE 80
