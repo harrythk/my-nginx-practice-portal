@@ -2,7 +2,7 @@
 
 ## Intro
 
-This project helps you install nginx on linux and then show a demo page
+This docker project help install nginx on linux and then show a demo page
 
 ## Steps
 
@@ -16,5 +16,4 @@ sudo systemctl enable nginx
 webpage is kept at /var/www/nginx
 
 
-Happy Learning
-TrainWithShubham
+Harendra
